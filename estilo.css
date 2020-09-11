@@ -1,6 +1,6 @@
 h1 {font-variant: small-caps;font-family: "verdana", "Century", "Book Antiqua";}     
 h2 { text-transform: capitalize; text-shadow:2px 2px 9px black; font-family:"verdana", "Century", "Book Antiqua";}
-body{ background-image: URL(../img/fundo.jpg);}
+body{ background-image: URL(../fundo.jpg);}
 .direita{
     float: right;
     width: 200px;
